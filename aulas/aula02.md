@@ -367,6 +367,6 @@ A biblioteca padrão possui funções para:
 * Operações de entrada de dados por teclado
 * Operações de gerência de memória
 
-[Acesse aqui](https://github.com/profsergiocosta/cp20191/blob/master/arquivos/jack_api.pdf) a descrição destas operações.
+[Acesse aqui](jack_api.pdf) a descrição destas operações.
 
 
